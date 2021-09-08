@@ -18,6 +18,6 @@ noButton.addEventListener("click", () => {
 video.play();
 hideDiv();
 setTimeout(function(){
-    window.location.href = 'index2.html';
+    window.location.href = 'inport.html';
     },112*1000);
 });
