@@ -12,12 +12,12 @@ video.play();
 hideDiv();
 setTimeout(function(){
 window.location.href = 'inport.html';
-},112*1000);
+},113*1000);
 });
 noButton.addEventListener("click", () => {
 video.play();
 hideDiv();
 setTimeout(function(){
     window.location.href = 'inport.html';
-    },112*1000);
+    },110*1000);
 });
